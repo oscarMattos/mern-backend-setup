@@ -1,1 +1,1 @@
-# mern-backend-setup
+# mern-skeleton
